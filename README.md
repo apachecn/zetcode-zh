@@ -16,15 +16,15 @@
 
 ## 目录
 
-+   [数据库](docs/database/SUMMARY.md)
-+   [图形](docs/graphic/SUMMARY.md)
++   [数据库](docs/db/SUMMARY.md)
++   [图形](docs/graph/SUMMARY.md)
 +   [GUI](docs/gui/SUMMARY.md)
 +   [Java](docs/java/SUMMARY.md)
-+   [JavaScript](docs/javascript/SUMMARY.md)
++   [JavaScript](docs/js/SUMMARY.md)
 +   [Kotlin](docs/kotlin/SUMMARY.md)
-+   [语言](docs/language/SUMMARY.md)
++   [语言](docs/lang/SUMMARY.md)
 +   [PHP](docs/php/SUMMARY.md)
-+   [Python](docs/python/SUMMARY.md)
++   [Python](docs/py/SUMMARY.md)
 +   [Servlet](docs/servlet/SUMMARY.md)
 +   [Spring](docs/spring/SUMMARY.md)
 +   [Spring Boot](docs/spring-boot/SUMMARY.md)
