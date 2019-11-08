@@ -32,7 +32,6 @@
 +   [Spring Boot](docs/spring-boot/SUMMARY.md)
 +   [Symfony](docs/symfony/SUMMARY.md)
 +   [Vaadin](docs/vaadin/SUMMARY.md)
-+   [Web](docs/web/SUMMARY.md)
 
 ## 联系方式
 
