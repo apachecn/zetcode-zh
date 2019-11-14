@@ -1,4 +1,4 @@
-# ZetCode 中文教程
+# ZetCode 中文系列教程
 
 > 原文：[ZetCode](http://zetcode.com/)
 > 
