@@ -71,7 +71,7 @@
 +   [Java 文件时间教程](72.md)
 +   [如何使用 Java 获取当前日期时间](73.md)
 +   [Java 列出目录内容](74.md)
-+   [Java 追加到文件](75.md)
++   [Java 附加到文件](75.md)
 +   [Java `ArrayList`教程](76.md)
 +   [用 Java 读写 ICO 图像](77.md)
 +   [Java `int`到`String`的转换](78.md)
