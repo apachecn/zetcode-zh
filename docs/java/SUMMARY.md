@@ -85,7 +85,7 @@
 +   [Java 集合的便利工厂方法](86.md)
 +   [Google Guava 简介](87.md)
 +   [OpenCSV 教程](88.md)
-+   [用 Java 8 的`StringJoiner`连接字符串](89.md)
++   [用 Java8 的`StringJoiner`连接字符串](89.md)
 +   [Java 中元素迭代的历史](90.md)
 +   [Java 谓词](91.md)
 +   [Java `StringBuilder`](92.md)
