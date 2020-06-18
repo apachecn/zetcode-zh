@@ -28,7 +28,7 @@
 +   [`Document.querySelector`教程](78.md)
 +   [`Document.all`教程](79.md)
 +   [JSON 服务器教程](80.md)
-+   [JavaScript Snake 教程](81.md)
++   [JavaScript 贪食蛇教程](81.md)
 +   [JavaScript 构建器模式教程](82.md)
 +   [JavaScript 数组](83.md)
 +   [`XMLHttpRequest`教程](84.md)
