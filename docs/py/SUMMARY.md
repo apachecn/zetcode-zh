@@ -48,7 +48,7 @@
 +   [Python 映射](51.md)
 +   [Python CSV 教程-读写 CSV](52.md)
 +   [Python 正则表达式](53.md)
-+   [Python simplejson 教程](54.md)
++   [Python SimpleJson 教程](54.md)
 +   [SymPy 教程](55.md)
 +   [Pandas 教程](56.md)
 +   [Matplotlib 教程](57.md)
