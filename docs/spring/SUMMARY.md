@@ -29,7 +29,7 @@
 +   [Spring Inject List XML 教程](30.md)
 +   [Spring 概要文件 XML 教程](31.md)
 +   [Spring `BeanDefinitionBuilder`教程](32.md)
-+   [Spring 单例 作用域 bean](33.md)
++   [Spring 单例作用域 bean](33.md)
 +   [独立的 Spring 应用](34.md)
 +   [经典 Spring 应用中的`JdbcTemplate`](35.md)
 +   [Spring `EmbeddedDatabaseBuilder`教程](36.md)
