@@ -94,7 +94,7 @@
 +   [Java `TemporalAdjusters`教程](95.md)
 +   [Apache `FileUtils`教程](96.md)
 +   [Java Stream 过滤器](97.md)
-+   [Java 流 归约](98.md)
++   [Java 流归约](98.md)
 +   [Java 流映射](99.md)
 +   [Java `InputStreamReader`教程](100.md)
 +   [在 Java 中读取文本文件](101.md)
