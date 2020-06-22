@@ -22,7 +22,7 @@
 +   [Spring `@Configuration`教程](23.md)
 +   [Spring C 命名空间教程](24.md)
 +   [Spring P 命名空间教程](25.md)
-+   [Spring bean 参考教程](26.md)
++   [Spring bean 引用教程](26.md)
 +   [Spring `@Qualifier`注解教程](27.md)
 +   [Spring `ClassPathResource`教程](28.md)
 +   [Spring 原型作用域 bean](29.md)
