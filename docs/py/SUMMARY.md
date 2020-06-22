@@ -12,7 +12,7 @@
     +   [Python 中的文件](13.md)
     +   [Python 中的面向对象编程](14.md)
     +   [Python 模块](15.md)
-    +   [Python 中的软件包](16.md)
+    +   [Python 中的包](16.md)
     +   [Python 异常](17.md)
     +   [Python 迭代器和生成器](18.md)
     +   [Python 内省](19.md)
