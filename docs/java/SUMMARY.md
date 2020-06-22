@@ -77,7 +77,7 @@
 +   [Java `int`到`String`的转换](78.md)
 +   [Java `HashSet`教程](79.md)
 +   [Java `HashMap`教程](80.md)
-+   [Java 静态关键字](81.md)
++   [Java `static`关键字](81.md)
 +   [Java 中的`HashMap`迭代](82.md)
 +   [用 Java 过滤列表](83.md)
 +   [在 Java 中读取网页](84.md)
