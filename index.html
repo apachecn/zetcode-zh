@@ -58,12 +58,15 @@
     }
     
     window.$docsify = {
-      loadSidebar: 'sidebar.md',
+      loadSidebar: 'SUMMARY.md',
       name: 'Zetcode 中文系列教程',
       auto2top: true,
       themeColor: '#333333',
       repo: 'apachecn/zetcode-zh',
       plugins: [window.docsPlugin],
+      alias: {
+        '/.*/SUMMARY.md': '/SUMMARY.md',
+      },
       search: {
         paths: 'auto',
         placeholder: '搜索',
